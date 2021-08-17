@@ -1,0 +1,6 @@
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\Prototipo_IP\Capa_Datos\obj\Debug\Capa_Datos.pdb
